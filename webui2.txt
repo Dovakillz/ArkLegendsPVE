@@ -1,0 +1,167 @@
+{
+	"WBUI2":
+	{
+		"settings":
+		{
+			"openbutton": 4,
+			"hideicon": true,
+			"hideiconafter": 30,
+			"iconurl": "https://i.imgur.com/tZKC6lb.png",
+			"disableicontext": false,
+			"iconposition": 0,
+			"icontextcolor": 0,
+			"openonstart": false,
+			"openonstartonlynewplayers": true,
+			"updateinterval": 12
+		},
+		"tabs": [
+			{
+				"layout": 1,
+				"buttontext": "Welcome",
+				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
+				"content": [
+					{
+						"title": "Welcome",
+						"text": "Here at the ArkLegends community we strive to provide everyone who joins with the type of Ark experience they desire and expect. \r\n\r\nEveryone here is helpful and respectful and we intend to keep it that way. \r\n\r\nThe admin team here has been playing Ark since 2015 and has years of server hosting experience. \r\n\r\nWe host our servers on our own dedicated server box (not server rental sites). \r\n\r\nThis allows us to provide the smoothest experience possible with amazing customization and features. \r\n\r\nWe have settings that are slightly boosted and mods that can be utilized to provide a faster experience thus bringing a \"balance\" of multiple play style options to the community."
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Settings",
+				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
+				"content": [
+					{
+						"title": "Rates",
+						"text": "Taming Speed Multiplier 10 (Instant with potion mod)\r\nHarvest Amount Multiplier 5\r\nBaby Mature Speed Multiplier 3 (Instant with Potion mod)\r\nCuddle Interval 0.4\r\nSpeed multiplier for the hatching of eggs 7\r\nMating Interval Multiplier 0.7 (Instant with Potion mod)\r\nFishing Loot Quality Multiplier 3\r\nSupply Crate Loot Quality Multiplier 3\r\nXP Multiplier 3\r\nStamina Multiplier\r\n0.8\r\nPlayer.Starvation Multiplier 0.8\r\nGeneral Draining Multipliers 0.8\r\nWeight per stat point +100\r\nFortitude per stat point +50\r\nOther stats are 15 per point.\r\nModded Loot Drops"
+					},
+					{
+						"title": "MODS",
+						"text": "Auto Engrams\r\nHuman NPC's(Friendly unless provoked)\r\nSunken World Ascended\r\nNanoh's Spyglass\r\nNanoh's Ascended Accessories\r\nBig Cats\r\nMouse Saver\r\nAlfa's Oceanic Platforms\r\nGryphons\r\nCyber's Structures\r\nAwesome Teleporters\r\nDraconic Chronicles\r\nShiney Dino's\r\nLutra's Potion Vending Machine\r\nArkitect Structures Remastered\r\nResource Gatherers\r\nDwarvin Builders\r\nHypers Extras\r\nAdditions Ascended: Acro,Brachi\r\nDraconis Glaucus\r\nMoros Indomitable Duo\r\nAmissa Additions\r\nS-Dinos\r\nKlingers Rustic Buildings\r\n"
+					}
+				]
+			},
+			{
+				"layout": 4,
+				"buttontext": "Features",
+				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
+				"content": [
+					{
+						"title": "Automation",
+						"text": "Our external webshop and discord shop are 100% automated. No manual deliveries of items, dinos or tokens purchased in the shops."
+					},
+					{
+						"title": "Tokens",
+						"text": "Discord Boost Rewards\r\nPlay to earn rewards\r\nVote Rewards\r\nReview Rewards\r\nPlayers earn 30 points per 30 mins.\r\nVote rewards are 200 points per vote.\r\nVIP earns 40 points per 30 mins.\r\nVIP+ earns 50 points per 30 mins.\r\nVIP++ earns 60 points per 30 mins."
+					},
+					{
+						"title": "Support Team",
+						"text": "The most positive flex according to the community is our amazing admin/mod team full of dedicated individuals that love to play Ark and love to help the community."
+					},
+					{
+						"title": "Vote Rewards",
+						"text": "Vote rewards are 200 tokens per vote and you can vote for 3 servers a day 1 time each day for a total of 600 tokens."
+					}
+				]
+			},
+			{
+				"layout": 4,
+				"buttontext": "Mods",
+				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
+				"content": [
+					{
+						"title": "Dino Depot",
+						"text": "DD Terminal allows for-\r\nPassive production of resources and unfertilized eggs\r\n\r\nDino Balls- Dinos kept in balls gain 2x exp and regen buffs\r\n\r\nBaby pickup- If DD Balls are in the terminal they will automatically pickup your baby dinos and ball them in the DD terminal."
+					},
+					{
+						"title": "Resource Gatherers",
+						"text": "3 Tiers\r\nPassive resource production\r\nRG Dedicated Storage\r\nCan connect the RG's to the dedi storages\r\nMust be online for the passive "
+					},
+					{
+						"title": "Hypers Extras",
+						"text": "Frank the wandering DODO- Can be traded with for awesome stuff including recipes for the nullvoid rift\r\n\r\nNullVoid Rift- Craft this and use the recipes to be warped into a seperate universe to fight the very challenging bosses that drop the best loot in the game per the mod."
+					},
+					{
+						"title": "Awesome Teleporters",
+						"text": "Place anywhere\r\nDeath Recovery function\r\nRequires power."
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Webshop",
+				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
+				"content": [
+					{
+						"title": "WEBSHOP",
+						"text": "The external webshop link can be found in Discord via the webshop help channel or by clicking the Webshop button below. A detailed tutorial on how to use the external webshop and Discord shop can be found in the Webshop-help channel.\r\n\r\nTo be able to utilize the Webshop and Discord shop you must connect your ingame character to the discord via the crosschat-link channel in the discord. Also when purchasing stuff from the webshop you must be online to do so.\r\n"
+					},
+					{
+						"title": "ArkShop",
+						"text": "Our points/currency system runs off ArkShop. ArkShop also provides our auto delivered starter kits. There are a few other kits you can get ingame. You can also trade points to other players ingame for buying/selling purposes. Ingame items/dinos can only ne be purchased using points via the Discord Shop.Here are the ingame commands for ArkShop-\r\n\r\n/points - See your current points balance\r\n/trade <'CharacterName'> <Amount> - Sends Amount Points to the character name specified\r\n/kit to list all kits, /kit <KitName> to redeem one of them\r\n/buykit <KitName> <Amount>. - Buys a kit. To get the contents you must redeem it with /kit kitname\r\n\r\nExamples-\r\n\r\n/trade Dova 1000"
+					}
+				]
+			},
+			{
+				"layout": 3,
+				"buttontext": "Español",
+				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
+				"content": [
+					{
+						"title": "Información",
+						"text": "Aquí en la comunidad de ArkLegends nos esforzamos por brindarles a todos los que se unen el tipo de experiencia Ark que desean y esperan. Todos aquí son serviciales y respetuosos y tenemos la intención de que siga siendo así. El equipo de administración aquí ha estado jugando Ark desde 2015 y tiene años de experiencia en alojamiento de servidores. Alojamos nuestros servidores en nuestro propio servidor dedicado (no en sitios de alquiler de servidores). Esto nos permite brindar la experiencia más fluida posible con características y personalización increíbles. Tenemos configuraciones ligeramente mejoradas y modificaciones que se pueden utilizar para brindar una experiencia más rápida y así brindar un \"equilibrio\" de múltiples opciones de estilos de juego a la comunidad.\r\n\r\n\r\n\r\n\r\nPara la página de votación, el enlace de Discord y el enlace del sitio web de la comunidad, PRESIONE F2 en la PC o para la consola, abra la rueda radial y busque el ícono de la página VOTAR."
+					},
+					{
+						"title": "Tarifas",
+						"text": "Multiplicador de velocidad de domesticación 10 (instantáneo con mod de poción)\r\nMultiplicador de cantidad de cosecha 5\r\nMultiplicador de velocidad 3 para bebés maduros (instantáneo con mod de poción)\r\nIntervalo de abrazo 0.4\r\nMultiplicador de velocidad para la eclosión de huevos 7\r\nMultiplicador de intervalo de apareamiento 0.7 (instantáneo con mod de poción)\r\nMultiplicador de calidad del botín de pesca 3\r\nMultiplicador de calidad del botín de la caja de suministros 3\r\nMultiplicador de XP 3\r\nMultiplicador de resistencia\r\n0,8\r\nPlayer.Starvation Multiplicador 0.8\r\nMultiplicadores de drenaje general 0,8\r\nPeso por punto de estadística +100\r\nFortaleza por punto de estadística +50\r\nOtras estadísticas son 30 por punto.\r\nGotas de botín modificadas"
+					},
+					{
+						"title": "Modificaciones",
+						"text": "Humanos_NPC_ASA\r\nGSA\r\nImpresionanteSpyGlass\r\nAhorrador de ratón\r\nGigantoraptor\r\nPlataformas Oceánicas de Alfa\r\ngrifos\r\nApilamiento TG 1000/90\r\ncalidad de vida+\r\nTeletransportadores impresionantes\r\nCrónicas draconianas\r\nDinos brillantes\r\nLas locas pociones ascendidas de Crazy\r\nEstructuras Arkitect remasterizadas\r\nRecolectores de recursos\r\nConstructores enanos\r\nHiper extras\r\nDisfraces Míticos\r\nAdiciones ascendidas: todos los dinosaurios\r\nDraconis Glauco\r\nPeinados MarniiMods\r\nDúo Indomable de Moros\r\ndetener el robo\r\nArmario Cliffans"
+					}
+				]
+			},
+			{
+				"layout": 2,
+				"buttontext": "Plugins",
+				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
+				"content": [
+					{
+						"title": "Lethal Decay",
+						"text": "The Auto Decay timer/s DO NOT run off the type of material used but off of the tribes activity as a whole meaning the timer starts when the last member of the tribe logs off. \r\n\r\nDefault Auto Decay has been set to 14 days! You can check your decay timer while looking at your structure/s with this chat command- /decaytime\r\n\r\nFeatures- \r\nCross-map- You will only have to travel to each map you have structures or dinos on 1 time to associate your tribe with the auto decay timers then after that they will update across all maps as you join a server and leave.\r\nIgnored Structures- Oil Pump\r\nInstant Decay- Campfire\r\nPrevent Offline Breeding\r\n\r\nAuto Decay Shop Features- We have setup monthly reoccurring supporter tiers from 10, 15 and 20$ will get 21 days, 25$ is 28 days  50$ will get 45 days."
+					},
+					{
+						"title": "ItemsPlus",
+						"text": "This plugin governs our global weight reduction which is 90%.\r\n\r\nIt also takes us off the vanilla item transfer system. When you transfer you dont have to upload items into any inventory you just simply transfer.\r\n\r\nWhen you try to transfer and a message comes up saying \"You cant transfer with the items in your inventory just type /upload then continue your transfer.\r\n\r\nWhen you show up to the server you transferred to all your stuff should download to your inventory. If it does not type /download or travel back to the previous server you transferred from. If none of that works make a ticket in the discord."
+					}
+				]
+			},
+			{
+				"layout": 1,
+				"buttontext": "Battlepass",
+				"imageurl": "https://i.imgur.com/McUPzAe.png",
+				"content": [
+					{
+						"title": "ArkLegends Battlepass",
+						"text": "Battlepass- To open Battlepass UI on PC press F3\r\n\r\nTo open on PSN Left Trigger and X \r\n\r\nTo open on Xbox Left Trigger and A\r\n\r\nThere will be 2 reward versions of the Battleplass. A free version and premium version. The premium reward will only be obtainable by purchasing either of the 2 Battlepass packs in the webshop that will be setup based on Shop tokens and as a way to help support the servers a donation gift pack.\r\n\r\nYou can find the Battleplass packs in the Token Shop (Use filter search \"Battlepass\") or Perks/Subs tab.\r\n\r\nThe content/rewards of the Battlepass range from weapons/armor or blueprints of either, admin paintbrushes, tames, etc.\r\n\r\nSome objectives are core map specific so if the progress of an objective isnt tracking try a different map. Some of the names of the quests are clues of where to go."
+					}
+				]
+			}
+		],
+		"links": [
+			{
+				"text": "Discord",
+				"url": "https://discord.gg/y2RtTz3sqY"
+			},
+			{
+				"text": "Webshop",
+				"url": "https://arklegendspve.tip4serv.com/"
+			},
+			{
+				"text": "Vote Link",
+				"url": "https://ark-servers.net/server/359075/"
+			}
+		],
+		"version": 2
+	}
+}
