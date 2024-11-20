@@ -103,13 +103,13 @@
 				]
 			},
 			{
-				"layout": 3,
-				"buttontext": "Español",
+				"layout": 1,
+				"buttontext": "Player List",
 				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
 				"content": [
 					{
-						"title": "Información",
-						"text": "Aquí en la comunidad de ArkLegends nos esforzamos por brindarles a todos los que se unen el tipo de experiencia Ark que desean y esperan. Todos aquí son serviciales y respetuosos y tenemos la intención de que siga siendo así. El equipo de administración aquí ha estado jugando Ark desde 2015 y tiene años de experiencia en alojamiento de servidores. Alojamos nuestros servidores en nuestro propio servidor dedicado (no en sitios de alquiler de servidores). Esto nos permite brindar la experiencia más fluida posible con características y personalización increíbles. Tenemos configuraciones ligeramente mejoradas y modificaciones que se pueden utilizar para brindar una experiencia más rápida y así brindar un \"equilibrio\" de múltiples opciones de estilos de juego a la comunidad.\r\n\r\n\r\n\r\n\r\nPara la página de votación, el enlace de Discord y el enlace del sitio web de la comunidad, PRESIONE F2 en la PC o para la consola, abra la rueda radial y busque el ícono de la página VOTAR."
+						"title": "Current Players Online",
+						"text": "{playerlist}"
 					},
 					{
 						"title": "Tarifas",
