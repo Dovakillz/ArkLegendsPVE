@@ -66,7 +66,7 @@
 			},
 			{
 				"layout": 4,
-				"buttontext": "Mods",
+				"buttontext": "Feat Mods",
 				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
 				"content": [
 					{
@@ -74,16 +74,16 @@
 						"text": "DD Terminal allows for-\r\nPassive production of resources and unfertilized eggs\r\n\r\nDino Balls- Dinos kept in balls gain 2x exp and regen buffs\r\n\r\nBaby pickup- If DD Balls are in the terminal they will automatically pickup your baby dinos and ball them in the DD terminal."
 					},
 					{
-						"title": "Resource Gatherers",
-						"text": "3 Tiers\r\nPassive resource production\r\nRG Dedicated Storage\r\nCan connect the RG's to the dedi storages\r\nMust be online for the passive "
+						"title": "Shiny Dinos",
+						"text": "Most of you know this mod. This is how we configured it here.\r\n\r\nUp to 6 total per map. (We have alot of maps)\r\nLevels 150 to 180\r\nSpawn interval Min 30m Max 60m\r\nLifetime Min 3hr Max 6hr"
 					},
 					{
-						"title": "Hypers Extras",
-						"text": "Frank the wandering DODO- Can be traded with for awesome stuff including recipes for the nullvoid rift\r\n\r\nNullVoid Rift- Craft this and use the recipes to be warped into a seperate universe to fight the very challenging bosses that drop the best loot in the game per the mod."
+						"title": "Draconic Chronicles",
+						"text": "Lots of custom Dragons and Wyverns\r\nIncubator\r\nCustom Bosses"
 					},
 					{
-						"title": "Awesome Teleporters",
-						"text": "Place anywhere\r\nDeath Recovery function\r\nRequires power."
+						"title": "Omega Teleporters",
+						"text": "Place anywhere\r\nDeath Recovery function"
 					}
 				]
 			},
@@ -98,7 +98,7 @@
 					},
 					{
 						"title": "ArkShop",
-						"text": "Our points/currency system runs off ArkShop. ArkShop also provides our auto delivered starter kits. There are a few other kits you can get ingame. You can also trade points to other players ingame for buying/selling purposes. Ingame items/dinos can only ne be purchased using points via the Discord Shop.Here are the ingame commands for ArkShop-\r\n\r\n/points - See your current points balance\r\n/trade <'CharacterName'> <Amount> - Sends Amount Points to the character name specified\r\n/kit to list all kits, /kit <KitName> to redeem one of them\r\n/buykit <KitName> <Amount>. - Buys a kit. To get the contents you must redeem it with /kit kitname\r\n\r\nExamples-\r\n\r\n/trade Dova 1000"
+						"text": "Our points/currency system runs off ArkShop. ArkShop also provides our auto delivered starter kits. You can also trade points to other players ingame for buying/selling purposes. Ingame items/dinos can only be purchased using points via the Discord Shop.Here are the ingame commands for ArkShop-\r\n\r\n/points - See your current points balance\r\n/trade <'CharacterName'> <Amount> - Sends Amount Points to the character name specified\r\n\r\nExamples-\r\n\r\n/trade Dova 1000"
 					}
 				]
 			},
@@ -122,7 +122,7 @@
 				]
 			},
 			{
-				"layout": 2,
+				"layout": 3,
 				"buttontext": "Plugins",
 				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
 				"content": [
@@ -133,6 +133,14 @@
 					{
 						"title": "ItemsPlus",
 						"text": "This plugin governs our global weight reduction which is 90%.\r\n\r\nIt also takes us off the vanilla item transfer system. When you transfer you dont have to upload items into any inventory you just simply transfer.\r\n\r\nWhen you try to transfer and a message comes up saying \"You cant transfer with the items in your inventory just type /upload then continue your transfer.\r\n\r\nWhen you show up to the server you transferred to all your stuff should download to your inventory. If it does not type /download or travel back to the previous server you transferred from. If none of that works make a ticket in the discord."
+					},
+					{
+						"title": "Lethal Quests",
+						"text": "This plugin provides a robust quest system designed by the ArkLegendsPVE team.\r\nIncludes-\r\n1 time only quests\r\nDaily Quests\r\nWeekly Quests\r\n\r\nRewards include- Shop points, XP, Items."
+					},
+					{
+						"title": "",
+						"text": ""
 					}
 				]
 			},
