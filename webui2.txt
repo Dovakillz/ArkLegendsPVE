@@ -18,7 +18,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Welcome",
-				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
+				"imageurl": "https://i.imgur.com/UDvOqUL.png",
 				"content": [
 					{
 						"title": "Welcome",
@@ -29,7 +29,7 @@
 			{
 				"layout": 2,
 				"buttontext": "Settings",
-				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
+				"imageurl": "https://i.imgur.com/UDvOqUL.png",
 				"content": [
 					{
 						"title": "Rates",
@@ -37,21 +37,21 @@
 					},
 					{
 						"title": "MODS",
-						"text": "Auto Engrams\r\nHuman NPC's(Friendly unless provoked)\r\nSunken World Ascended\r\nNanoh's Spyglass\r\nNanoh's Ascended Accessories\r\nBig Cats\r\nMouse Saver\r\nAlfa's Oceanic Platforms\r\nGryphons\r\nCyber's Structures\r\nAwesome Teleporters\r\nDraconic Chronicles\r\nShiney Dino's\r\nLutra's Potion Vending Machine\r\nArkitect Structures Remastered\r\nResource Gatherers\r\nDwarvin Builders\r\nHypers Extras\r\nAdditions Ascended: Acro,Brachi\r\nDraconis Glaucus\r\nMoros Indomitable Duo\r\nAmissa Additions\r\nS-Dinos\r\nKlingers Rustic Buildings\r\n"
+						"text": "Auto Engrams\r\nHuman NPC's(Friendly unless provoked)\r\nNanoh's Spyglass\r\nNanoh's Ascended Accessories\r\nBig Cats\r\nMouse Saver\r\nAlfa's Oceanic Platforms\r\nGryphons\r\nCyber's Structures\r\nOmega Teleporters\r\nDraconic Chronicles\r\nShiney Dino's\r\nLutra's Potion Vending Machine\r\nArkitect Structures Remastered\r\nDwarvin Builders\r\nAdditions Ascended: Acro,Brachi\r\nDraconis Glaucus\r\nMoros Indomitable Duo\r\nAmissa Additions\r\nAmissa Structures(Amissa Map Only)\r\nS-Dinos\r\nKlingers Rustic Buildings\r\nRising Horde(Seperate server, same cluster)\r\nArkLegendsPVE Coin (For Poker games on event map only)\r\n"
 					}
 				]
 			},
 			{
 				"layout": 4,
 				"buttontext": "Features",
-				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
+				"imageurl": "https://i.imgur.com/UDvOqUL.png",
 				"content": [
 					{
 						"title": "Automation",
 						"text": "Our external webshop and discord shop are 100% automated. No manual deliveries of items, dinos or tokens purchased in the shops."
 					},
 					{
-						"title": "Tokens",
+						"title": "Points",
 						"text": "Discord Boost Rewards\r\nPlay to earn rewards\r\nVote Rewards\r\nReview Rewards\r\nPlayers earn 30 points per 30 mins.\r\nVote rewards are 200 points per vote.\r\nVIP earns 40 points per 30 mins.\r\nVIP+ earns 50 points per 30 mins.\r\nVIP++ earns 60 points per 30 mins."
 					},
 					{
@@ -67,11 +67,11 @@
 			{
 				"layout": 4,
 				"buttontext": "Feat Mods",
-				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
+				"imageurl": "https://i.imgur.com/UDvOqUL.png",
 				"content": [
 					{
 						"title": "Dino Depot",
-						"text": "DD Terminal allows for-\r\nPassive production of resources and unfertilized eggs\r\n\r\nDino Balls- Dinos kept in balls gain 2x exp and regen buffs\r\n\r\nBaby pickup- If DD Balls are in the terminal they will automatically pickup your baby dinos and ball them in the DD terminal."
+						"text": "DD Terminal allows for-\r\nPassive production of resources and unfertilized eggs\r\n\r\nDino Balls- Dinos kept in balls gain 2x exp and regen buffs\r\n\r\nBaby pickup- If DD Balls are in the terminal they will automatically pickup your baby dinos and ball them in the DD terminal as long as you have this feature enabled."
 					},
 					{
 						"title": "Shiny Dinos",
@@ -79,22 +79,22 @@
 					},
 					{
 						"title": "Draconic Chronicles",
-						"text": "Lots of custom Dragons and Wyverns\r\nIncubator\r\nCustom Bosses"
+						"text": "Lots of custom Dragons and Wyverns\r\nIncubator\r\nCustom Bosses\r\nCustom Spawning system so there is no spawn conflicts"
 					},
 					{
-						"title": "Omega Teleporters",
-						"text": "Place anywhere\r\nDeath Recovery function"
+						"title": "Cyber Structures",
+						"text": "Similar to the S+ mod from ASE\r\nPassive production options from Vivariums, Aggregator, Gacha Gavager\r\nPassive breeding/mutating via the Propagator"
 					}
 				]
 			},
 			{
 				"layout": 2,
 				"buttontext": "Webshop",
-				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
+				"imageurl": "https://i.imgur.com/UDvOqUL.png",
 				"content": [
 					{
 						"title": "WEBSHOP",
-						"text": "The external webshop link can be found in Discord via the webshop help channel or by clicking the Webshop button below. A detailed tutorial on how to use the external webshop and Discord shop can be found in the Webshop-help channel.\r\n\r\nTo be able to utilize the Webshop and Discord shop you must connect your ingame character to the discord via the crosschat-link channel in the discord. Also when purchasing stuff from the webshop you must be online to do so.\r\n"
+						"text": "The external webshop link can be found in Discord via the webshop help channel or by clicking the Webshop button below. A detailed tutorial on how to use the external webshop and Discord shop can be found in the Webshop-help channel.\r\n\r\nTo be able to utilize the Webshop and Discord shop you must connect your ingame character to the discord via the crosschat-link channel in the discord.\r\n"
 					},
 					{
 						"title": "ArkShop",
@@ -105,7 +105,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Player List",
-				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
+				"imageurl": "https://i.imgur.com/UDvOqUL.png",
 				"content": [
 					{
 						"title": "Current Players Online",
@@ -124,7 +124,7 @@
 			{
 				"layout": 3,
 				"buttontext": "Plugins",
-				"imageurl": "https://i.imgur.com/DSZlwTQ.jpeg",
+				"imageurl": "https://i.imgur.com/UDvOqUL.png",
 				"content": [
 					{
 						"title": "Lethal Decay",
@@ -147,7 +147,7 @@
 			{
 				"layout": 1,
 				"buttontext": "Battlepass",
-				"imageurl": "https://i.imgur.com/McUPzAe.png",
+				"imageurl": "https://i.imgur.com/UDvOqUL.png",
 				"content": [
 					{
 						"title": "ArkLegends Battlepass",
