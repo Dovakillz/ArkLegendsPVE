@@ -167,7 +167,7 @@
 			},
 			{
 				"text": "Vote Link",
-				"url": "https://ark-servers.net/server/359075/"
+				"url": "https://arklegendspve.com/"
 			}
 		],
 		"version": 2
