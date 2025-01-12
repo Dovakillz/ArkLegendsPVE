@@ -393,7 +393,7 @@
                         {
                             "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element",
                             "maxQuantityPerCycle": 0,
-                            "maxQuantityInTerminal": 0,
+                            "maxQuantityInTerminal": 50,
                             "quantityPerDino": 1,
                             "comsumesSelectMode": 0,
                             "consumesItemsChance": 0,
@@ -417,7 +417,7 @@
                      {
                          "bpPath": "/Game/PrimalEarth/CoreBlueprints/Resources/PrimalItemResource_Element.PrimalItemResource_Element",
                          "maxQuantityPerCycle": 0,
-                         "maxQuantityInTerminal": 0,
+                         "maxQuantityInTerminal": 50,
                          "quantityPerDino": 1,
                          "comsumesSelectMode": 0,
                          "consumesItemsChance": 0,
