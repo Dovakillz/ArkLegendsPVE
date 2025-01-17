@@ -387,7 +387,7 @@
             "chanceToProduce": 1.0,
             "produces": [
         {
-                    "intervalSeconds": 300.00,
+                    "intervalSeconds": 3600.00,
                     "itemSelectMode": 0,
                     "items": [
                         {
@@ -411,7 +411,7 @@
          "chanceToProduce": 1.0,
          "produces": [
     {
-                 "intervalSeconds": 300.00,
+                 "intervalSeconds": 3600.00,
                  "itemSelectMode": 0,
                  "items": [
                      {
@@ -435,7 +435,7 @@
         "chanceToProduce": 1.0,
         "produces": [
     {
-                "intervalSeconds": 300.00,
+                "intervalSeconds": 3600.00,
                 "itemSelectMode": 0,
                 "items": [
                     {
@@ -459,7 +459,7 @@
         "chanceToProduce": 1.0,
         "produces": [
     {
-                "intervalSeconds": 3600.0,
+                "intervalSeconds": 300.0,
                 "itemSelectMode": 0,
                 "items": [
                     {
