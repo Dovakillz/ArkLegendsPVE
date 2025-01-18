@@ -167,7 +167,7 @@
 			},
 			{
 				"text": "Vote Link",
-				"url": "https://arklegendspve.com/"
+				"url": "https://arklegendspve.com/dashboard"
 			}
 		],
 		"version": 2
