@@ -159,7 +159,7 @@
 		"links": [
 			{
 				"text": "Discord",
-				"url": "https://discord.gg/y2RtTz3sqY"
+				"url": "https://discord.gg/xhmBDqCnnG"
 			},
 			{
 				"text": "Webshop",
