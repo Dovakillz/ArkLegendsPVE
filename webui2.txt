@@ -37,7 +37,7 @@
 					},
 					{
 						"title": "MODS",
-						"text": "Auto Engrams\r\nHuman NPC's(Friendly unless provoked)\r\nNanoh's Spyglass\r\nNanoh's Ascended Accessories\r\nBig Cats\r\nMouse Saver\r\nAlfa's Oceanic Platforms\r\nGryphons\r\nCyber's Structures\r\nOmega Teleporters\r\nDraconic Chronicles\r\nShiney Dino's\r\nLutra's Potion Vending Machine\r\nArkitect Structures Remastered\r\nDwarvin Builders\r\nAdditions Ascended: Acro,Brachi\r\nDraconis Glaucus\r\nMoros Indomitable Duo\r\nAmissa Additions\r\nAmissa Structures(Amissa Map Only)\r\nS-Dinos\r\nKlingers Rustic Buildings\r\nRising Horde(Seperate server, same cluster)\r\nArkLegendsPVE Coin (For Poker games on event map only)\r\n"
+						"text": "Auto Engrams\r\nHuman NPC's(Friendly unless provoked)\r\nNanoh's Spyglass\r\nNanoh's Ascended Accessories\r\nBig Cats\r\nMouse Saver\r\nAlfa's Oceanic Platforms\r\nGryphons\r\nCyber's Structures\r\nOmega Teleporters\r\nDraconic Chronicles\r\nShiney Dino's\r\nLutra's Potion Vending Machine\r\nArkitect Structures Remastered\r\nDwarvin Builders\r\nAdditions Ascended: Acro,Brachi\r\nDraconis Glaucus\r\nMoros Indomitable Duo\r\nAmissa Additions\r\nAmissa Structures(Amissa Map Only)\r\nS-Dinos\r\nKlingers Rustic Buildings\r\nAstreos Mythical Creatures \r\nAstreos Trireme Ships (Astreos Only)\r\nArkLegendsPVE Coin (For Poker games on event map only)\r\n"
 					}
 				]
 			},
@@ -52,7 +52,7 @@
 					},
 					{
 						"title": "Points",
-						"text": "Discord Boost Rewards\r\nPlay to earn rewards\r\nVote Rewards\r\nReview Rewards\r\nPlayers earn 30 points per 30 mins.\r\nVote rewards are 200 points per vote.\r\nVIP earns 40 points per 30 mins.\r\nVIP+ earns 50 points per 30 mins.\r\nVIP++ earns 60 points per 30 mins."
+						"text": "Discord Boost Rewards\r\nPlay to earn rewards\r\nVote Rewards\r\nReview Rewards\r\nPlayers earn 30 points per 30 mins.\r\nVote rewards are 400 points per vote.\r\nVIP earns 40 points per 30 mins.\r\nVIP+ earns 50 points per 30 mins.\r\nVIP++ earns 60 points per 30 mins."
 					},
 					{
 						"title": "Support Team",
@@ -60,7 +60,7 @@
 					},
 					{
 						"title": "Vote Rewards",
-						"text": "Vote rewards are 200 tokens per vote and you can vote for 3 servers a day 1 time each day for a total of 600 tokens."
+						"text": "Vote rewards are 400 tokens per vote and you can vote for 3 servers a day 1 time each day for a total of 1200 tokens."
 					}
 				]
 			},
@@ -136,7 +136,7 @@
 					},
 					{
 						"title": "Lethal Quests",
-						"text": "This plugin provides a robust quest system designed by the ArkLegendsPVE team.\r\nIncludes-\r\n1 time only quests\r\nDaily Quests\r\nWeekly Quests\r\n\r\nRewards include- Shop points, XP, Items."
+						"text": "This plugin provides a robust quest system designed by the ArkLegendsPVE team.\r\nTo open the UI press F2 for PC, Console pull up the radial wheel and click the Berry icon.\r\nIncludes-\r\n1 time only quests\r\nDaily Quests\r\nWeekly Quests\r\n\r\nRewards include- Shop points, XP, Items."
 					},
 					{
 						"title": "",
@@ -159,7 +159,7 @@
 		"links": [
 			{
 				"text": "Discord",
-				"url": "https://discord.gg/xhmBDqCnnG"
+				"url": "https://discord.gg/y2RtTz3sqY"
 			},
 			{
 				"text": "Webshop",
@@ -167,7 +167,7 @@
 			},
 			{
 				"text": "Vote Link",
-				"url": "https://arklegendspve.com/dashboard"
+				"url": "https://ark-servers.net/server/359075/"
 			}
 		],
 		"version": 2
