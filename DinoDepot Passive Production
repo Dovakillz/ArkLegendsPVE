@@ -383,7 +383,7 @@
             ]
         },
         {
-            "dinoType": "/Gryphons/Subspecies/Mountain/Gryphon_Character_BP.Gryphon_Character_BP",
+            "dinoType": "/Game/PrimalEarth/Dinos/Raptor/BionicRaptor_Character_BP.BionicRaptor_Character_BP",
             "chanceToProduce": 1.0,
             "produces": [
         {
