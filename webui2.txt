@@ -16,13 +16,17 @@
 		},
 		"tabs": [
 			{
-				"layout": 1,
+				"layout": 2,
 				"buttontext": "Welcome",
 				"imageurl": "https://i.imgur.com/UDvOqUL.png",
 				"content": [
 					{
 						"title": "Welcome",
 						"text": "Here at the ArkLegends community we strive to provide everyone who joins with the type of Ark experience they desire and expect. \r\n\r\nEveryone here is helpful and respectful and we intend to keep it that way. \r\n\r\nThe admin team here has been playing Ark since 2015 and has years of server hosting experience. \r\n\r\nWe host our servers on our own dedicated server box (not server rental sites). \r\n\r\nThis allows us to provide the smoothest experience possible with amazing customization and features. \r\n\r\nWe have settings that are slightly boosted and mods that can be utilized to provide a faster experience thus bringing a \"balance\" of multiple play style options to the community."
+					},
+					{
+						"title": "Rules",
+						"text": "• Use common sense. Treat others the way you want to be treated.\r\n\r\n* 1 base per tribe per map\r\n\r\n• The primary language of this server is English.\r\n\r\n• Do not publicly accuse other users/players of misconduct.\r\n\r\n• Do not spam messages, images, emoji, commands, and @mentions.\r\n\r\n• Aggressive or 'toxic' behavior will not be tolerated.\r\n\r\n• No posting content related to piracy, cheats, cracks, exploits along with NSFW.\r\n\r\n• 18+ voice channel is for adult communication, it is not an open platform for racist, sexist or violent speech and will be enforced by being banned from that channel and possibly the   Discord and/or game servers.\r\n\r\n• Do not PM mods or admins unless you have a valid and specific private issue with another mod or admin that you have a grievance with.\r\n\r\n• Do not submit-a-ticket  unless it is necessary (transfer recovery, name change,  Subscriber package delivery, etc.) Most issues can be helped through the communityhelp channel more efficiently.\r\n\r\n• Suggestions for the servers/Discord should be handled in that channel and should be accompanied by links for any mods that you would like to see added to the servers.\r\n\r\n• Some channels have additional rules to be followed from that channel such as Auctions.   Those rules should be followed strictly and in conjunction with other Community rules.\r\n\r\n• Crosschat-Link Is mandatory if you want support from the team\r\n\r\nDont build close to others as best you can.\r\n\r\nDont spam pillars, foundations or anything else on any map that ia NOT part of your base\r\n\r\nDont block Artifacts and Explorer notes of any kind\r\n\r\nDont block heavy resource spawns"
 					}
 				]
 			},
@@ -122,7 +126,7 @@
 				]
 			},
 			{
-				"layout": 3,
+				"layout": 4,
 				"buttontext": "Plugins",
 				"imageurl": "https://i.imgur.com/UDvOqUL.png",
 				"content": [
@@ -139,8 +143,8 @@
 						"text": "This plugin provides a robust quest system designed by the ArkLegendsPVE team.\r\nTo open the UI press F2 for PC, Console pull up the radial wheel and click the Berry icon.\r\nIncludes-\r\n1 time only quests\r\nDaily Quests\r\nWeekly Quests\r\n\r\nRewards include- Shop points, XP, Items."
 					},
 					{
-						"title": "",
-						"text": ""
+						"title": "Lethal Structure Limit",
+						"text": "This plugin governs the structure limit per tribe\r\nTribe Structure limit is 3500. \r\nConnected structure limit is 1250\r\nCommands:\r\nLimits:\"/limits\", //Shows a message with all limit counts\r\nLinked:\"/linked\", //Shows a message with the number of linked structures to a structure you are looking at"
 					}
 				]
 			},
