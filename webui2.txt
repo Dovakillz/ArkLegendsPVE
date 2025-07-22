@@ -41,7 +41,7 @@
 					},
 					{
 						"title": "MODS",
-						"text": "Auto Engrams\r\nHuman NPC's(Friendly unless provoked)\r\nNanoh's Spyglass\r\nNanoh's Ascended Accessories\r\nBig Cats\r\nMouse Saver\r\nAlfa's Oceanic Platforms\r\nGryphons\r\nCyber's Structures\r\nOmega Teleporters\r\nDraconic Chronicles\r\nShiney Dino's\r\nLutra's Potion Vending Machine\r\nArkitect Structures Remastered\r\nDwarvin Builders\r\nAdditions Ascended: Acro,Brachi\r\nDraconis Glaucus\r\nMoros Indomitable Duo\r\nAmissa Additions\r\nAmissa Structures(Amissa Map Only)\r\nS-Dinos\r\nKlingers Rustic Buildings\r\nAstreos Mythical Creatures \r\nAstreos Trireme Ships (Astreos Only)\r\nArkLegendsPVE Coin (For Poker games on event map only)\r\n"
+						"text": "Auto Engrams\r\nHuman NPC's(Friendly unless provoked)\r\nNanoh's Spyglass\r\nNanoh's Ascended Accessories\r\nNanoh's Ascended Saddles\r\nJvh Landscaping/Garden Decor\r\nSkyshroud: Drakara\r\nJumping Spiders\r\nCKF\r\nBig Cats\r\nMouse Saver\r\nAlfa's Oceanic Platforms\r\nCyber's Structures\r\nOmega Teleporters\r\nDraconic Chronicles\r\nShiny Dino's\r\nLutra's Potion Vending Machine\r\nArkitect Structures Remastered\r\nDwarvin Builders\r\nAdditions Ascended: Acro,Brachi\r\nDraconis Glaucus\r\nMoros Indomitable Duo\r\nAmissa Additions\r\nAmissa Structures(Amissa Map Only)\r\nS-Dinos\r\nKlingers Rustic Buildings\r\nAstreos Mythical Creatures \r\nAstreos Trireme Ships (Astreos Only)\r\nArkLegendsPVE Coin (For Poker games on event map only)\r\n"
 					}
 				]
 			},
@@ -149,13 +149,17 @@
 				]
 			},
 			{
-				"layout": 1,
-				"buttontext": "Battlepass",
+				"layout": 2,
+				"buttontext": "QuestsP/AutoBases",
 				"imageurl": "https://i.imgur.com/UDvOqUL.png",
 				"content": [
 					{
-						"title": "ArkLegends Battlepass",
-						"text": "Battlepass- To open Battlepass UI on PC press F3\r\n\r\nTo open on PSN Left Trigger and X \r\n\r\nTo open on Xbox Left Trigger and A\r\n\r\nThere will be 2 reward versions of the Battleplass. A free version and premium version. The premium reward will only be obtainable by purchasing either of the 2 Battlepass packs in the webshop that will be setup based on Shop tokens and as a way to help support the servers a donation gift pack.\r\n\r\nYou can find the Battleplass packs in the Token Shop (Use filter search \"Battlepass\") or Perks/Subs tab.\r\n\r\nThe content/rewards of the Battlepass range from weapons/armor or blueprints of either, admin paintbrushes, tames, etc.\r\n\r\nSome objectives are core map specific so if the progress of an objective isnt tracking try a different map. Some of the names of the quests are clues of where to go."
+						"title": "ArkLegends Premium Quest Line",
+						"text": "The content/rewards of the Premium Quests range from XP, Shop Points, Admin Paintbrushes, Breeding Pairs of the best dinos and untameables. This is an ever growing and changing quest line. More quests will get added as more core maps/dlc's release. You can find access to the premium quest line through the Webshop."
+					},
+					{
+						"title": "AutoBases",
+						"text": "Our AutoBase allows us to bring some PVP to our PVE cluster.\r\n\r\nEach map will notify you when a \"Raid Base\" spawns with the coordinates. Its up to you and or ur tribe to raid that base if you choose. The danger is real and the rewards are worthy. These are unmanned auto generated raid bases, if you get too close they will attack you!!! So bring your best tactics and of course dinos!!!"
 					}
 				]
 			}
@@ -163,7 +167,7 @@
 		"links": [
 			{
 				"text": "Discord",
-				"url": "https://discord.gg/y2RtTz3sqY"
+				"url": "https://discord.gg/fCEWaywk"
 			},
 			{
 				"text": "Webshop",
@@ -172,6 +176,10 @@
 			{
 				"text": "Vote Link",
 				"url": "https://ark-servers.net/server/359075/"
+			},
+			{
+				"text": "Feedback",
+				"url": "https://arklegendspve.com/feedback"
 			}
 		],
 		"version": 2
