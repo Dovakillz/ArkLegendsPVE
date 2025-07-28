@@ -150,12 +150,12 @@
 			},
 			{
 				"layout": 2,
-				"buttontext": "QuestsP/AutoBases",
+				"buttontext": "Battlepass/AutoBases",
 				"imageurl": "https://i.imgur.com/UDvOqUL.png",
 				"content": [
 					{
-						"title": "ArkLegends Premium Quest Line",
-						"text": "The content/rewards of the Premium Quests range from XP, Shop Points, Admin Paintbrushes, Breeding Pairs of the best dinos and untameables. This is an ever growing and changing quest line. More quests will get added as more core maps/dlc's release. You can find access to the premium quest line through the Webshop."
+						"title": "ArkLegends Battlepass",
+						"text": "The Battlepass is back and better than ever. More robust objectives and rewards! Make your way through map specific harvesting, taming and killing objectives.\r\n\r\nRewards of shop points and single/breeding pairs of some of the best stuff we have here.\r\n\r\nThe Battlepass does not use cryos of any kind some when claiming a reward make sure there is enough room for your dino to spawn in. Also water dino rewards can only spawn in the water so make sure your in water with enough room for the water dino to spawn as well.\r\n\r\nTo open the Battlepass on PC hit F3. On console hit L2 + Square.\r\n\r\nAs more core maps release for the game the Battlepass will be updated with added objectives for them."
 					},
 					{
 						"title": "AutoBases",
