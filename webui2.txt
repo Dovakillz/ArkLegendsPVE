@@ -167,7 +167,7 @@
 		"links": [
 			{
 				"text": "Discord",
-				"url": "https://discord.gg/fCEWaywk"
+				"url": "https://discord.gg/4YNhUEcJsu"
 			},
 			{
 				"text": "Webshop",
@@ -185,3 +185,4 @@
 		"version": 2
 	}
 }
+
