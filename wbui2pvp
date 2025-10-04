@@ -56,7 +56,7 @@
 					},
 					{
 						"title": "Points",
-						"text": "Discord Boost Rewards\r\nPlay to earn rewards\r\nVote Rewards\r\nDefault(Everyone without a VIP role or EventTeam role)=9 points per 10 mins\r\nVIP=13 points per 10 mins\r\nVIP+=16 points per 10 mins\r\nVIP++=19 points per 10 mins"
+						"text": "Discord Boost Rewards\r\nPlay to earn rewards\r\nVote Rewards\r\nDefault(Everyone without a VIP Role)=9 points per 10 mins\r\nVIP=13 points per 10 mins\r\nVIP+=16 points per 10 mins\r\nVIP++=19 points per 10 mins"
 					},
 					{
 						"title": "",
