@@ -56,7 +56,7 @@
 					},
 					{
 						"title": "Points",
-						"text": "Discord Boost Rewards\r\nPlay to earn rewards\r\nVote Rewards\r\nReview Rewards\r\nPlayers earn 30 points per 30 mins.\r\nVote rewards are 400 points per vote.\r\nVIP earns 13 points per 10 mins.\r\nVIP+ earns 16 points per 10 mins.\r\nVIP++ earns 19 points per 10 mins."
+						"text": "Discord Boost Rewards\r\nPlay to earn rewards\r\nVote Rewards\r\nReview Rewards\r\nPlayers earn 9 points per 10 mins.\r\nVote rewards are 400 points per vote.\r\nVIP earns 13 points per 10 mins.\r\nVIP+ earns 16 points per 10 mins.\r\nVIP++ earns 19 points per 10 mins."
 					},
 					{
 						"title": "Support Team",
@@ -185,6 +185,7 @@
 		"version": 2
 	}
 }
+
 
 
 
