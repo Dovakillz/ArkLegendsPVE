@@ -26,7 +26,7 @@
 					},
 					{
 						"title": "Rules",
-						"text": "• Use common sense. Treat others the way you want to be treated.\r\n\r\n* 1 base per tribe per map\r\n\r\n• The primary language of this server is English.\r\n\r\n• Do not publicly accuse other users/players of misconduct.\r\n\r\n• Do not spam messages, images, emoji, commands, and @mentions.\r\n\r\n• Aggressive or 'toxic' behavior will not be tolerated.\r\n\r\n• No posting content related to piracy, cheats, cracks, exploits along with NSFW.\r\n\r\n• 18+ voice channel is for adult communication, it is not an open platform for racist, sexist or violent speech and will be enforced by being banned from that channel and possibly the   Discord and/or game servers.\r\n\r\n• Do not PM mods or admins unless you have a valid and specific private issue with another mod or admin that you have a grievance with.\r\n\r\n• Do not submit-a-ticket  unless it is necessary (transfer recovery, name change,  Subscriber package delivery, etc.) Most issues can be helped through the communityhelp channel more efficiently.\r\n\r\n• Suggestions for the servers/Discord should be handled in that channel and should be accompanied by links for any mods that you would like to see added to the servers.\r\n\r\n• Some channels have additional rules to be followed from that channel such as Auctions.   Those rules should be followed strictly and in conjunction with other Community rules.\r\n\r\n• Crosschat-Link Is mandatory if you want support from the team\r\n\r\nDont build close to others as best you can.\r\n\r\nDont spam pillars, foundations or anything else on any map that ia NOT part of your base\r\n\r\nDont block Artifacts and Explorer notes of any kind\r\n\r\nDont block heavy resource spawns"
+						"text": "• Use common sense. Treat others the way you want to be treated.\r\n\r\n* 1 base per tribe per map(With the except of a water pen)\r\n\r\n• The primary language of this server is English.\r\n\r\n• Do not openly fight with others in view of the public.\r\n\r\n• Do not spam messages, images, emoji, commands, and @mentions.\r\n\r\n• Aggressive or 'toxic' behavior will not be tolerated.\r\n\r\n• No posting content related to piracy, cheats, cracks, exploits along with NSFW.\r\n\r\n• 18+ voice channel is for adult communication, it is not an open platform for racist, sexist or violent speech and will be enforced by being banned from that channel and possibly the   Discord and/or game servers.\r\n\r\n• Do not PM mods or admins unless you have a valid and specific private issue with another mod or admin that you have a grievance with.\r\n\r\n• Do not submit-a-ticket  unless it is necessary (transfer recovery, name change,  Subscriber package delivery, etc.) Most issues can be helped through the communityhelp channel more efficiently.\r\n\r\n• Suggestions for the servers/Discord should be handled in that channel and should be accompanied by links for any mods that you would like to see added to the servers.\r\n\r\n• Some channels have additional rules to be followed from that channel such as Auctions.   Those rules should be followed strictly and in conjunction with other Community rules.\r\n\r\n• Crosschat-Link Is mandatory if you want support from the team\r\n\r\nDont build close to others as best you can.\r\n\r\nDont spam pillars, foundations or anything else on any map that ia NOT part of your base\r\n\r\nDont block Artifacts and Explorer notes of any kind\r\n\r\nDont block heavy resource spawns"
 					}
 				]
 			},
@@ -51,12 +51,12 @@
 				"imageurl": "https://i.imgur.com/UDvOqUL.png",
 				"content": [
 					{
-						"title": "Automation",
-						"text": "Our external webshop and discord shop are 100% automated. No manual deliveries of items, dinos or tokens purchased in the shops."
+						"title": "Automation/In-game Shop",
+						"text": "Our external webshop is 99% automated. See webshop pack for details.\r\n\r\nIn-game shop can be opened by pressing F4 on PC or on consoles by opening the radial wheel menu and selecting the ArkShopUI button. A tutorial video of the in-game shop can be found in the discord under the \"Info\" channel, if needed."
 					},
 					{
 						"title": "Points",
-						"text": "Discord Boost Rewards\r\nPlay to earn rewards\r\nVote Rewards\r\nReview Rewards\r\nPlayers earn 9 points per 10 mins.\r\nVote rewards are 400 points per vote.\r\nVIP earns 13 points per 10 mins.\r\nVIP+ earns 16 points per 10 mins.\r\nVIP++ earns 19 points per 10 mins."
+						"text": "Discord Boost Rewards\r\nPlaytime rewards\r\nVote Rewards\r\nReview Rewards\r\nPlayers earn 9 points per 10 mins.\r\nVote rewards are 400 points per vote.\r\nVIP earns 13 points per 10 mins.\r\nVIP+ earns 16 points per 10 mins.\r\nVIP++ earns 19 points per 10 mins."
 					},
 					{
 						"title": "Support Team",
@@ -64,7 +64,7 @@
 					},
 					{
 						"title": "Vote Rewards",
-						"text": "Vote rewards are 400 tokens per vote and you can vote for 3 servers a day 1 time each day for a total of 1200 tokens."
+						"text": "Vote rewards are 400 points per vote and you can vote for 3 servers a day 1 time each day for a total of 1200 points."
 					}
 				]
 			},
@@ -98,11 +98,11 @@
 				"content": [
 					{
 						"title": "WEBSHOP",
-						"text": "The external webshop link can be found in Discord via the webshop help channel or by clicking the Webshop button below. A detailed tutorial on how to use the external webshop and Discord shop can be found in the Webshop-help channel.\r\n\r\nTo be able to utilize the Webshop and Discord shop you must connect your ingame character to the discord via the crosschat-link channel in the discord.\r\n"
+						"text": "The external webshop link can be found in Discord via the webshop help channel or by clicking the Webshop button below. A detailed tutorial on how to use the external webshop can be found in the Webshop-help channel.\r\n"
 					},
 					{
 						"title": "ArkShop",
-						"text": "Our points/currency system runs off ArkShop. ArkShop also provides our auto delivered starter kits. You can also trade points to other players ingame for buying/selling purposes. Ingame items/dinos can only be purchased using points via the Discord Shop.Here are the ingame commands for ArkShop-\r\n\r\n/points - See your current points balance\r\n/trade <'CharacterName'> <Amount> - Sends Amount Points to the character name specified\r\n\r\nExamples-\r\n\r\n/trade Dova 1000"
+						"text": "Our points/currency system runs off ArkShop. ArkShop also provides our auto delivered starter kits. You can also trade points to other players ingame for buying/selling purposes. Ingame items/dinos can only be purchased using points via the Discord Shop."
 					}
 				]
 			},
@@ -132,19 +132,19 @@
 				"content": [
 					{
 						"title": "Lethal Decay",
-						"text": "The Auto Decay timer/s DO NOT run off the type of material used but off of the tribes activity as a whole meaning the timer starts when the last member of the tribe logs off. \r\n\r\nDefault Auto Decay has been set to 7 days! You can check your decay timer while looking at your structure/s with this chat command- /decaytime\r\n\r\nFeatures- \r\nCross-map- You will only have to travel to each map you have structures or dinos on 1 time to associate your tribe with the auto decay timers then after that they will update across all maps as you join a server and leave.\r\nIgnored Structures- Oil Pump\r\nInstant Decay- Campfire\r\nPrevent Offline Breeding\r\n\r\nAuto Decay Shop Features- Vip roles provide longer decay times."
+						"text": "The Auto Decay timer/s DO NOT run off the type of material used but off of the tribes activity as a whole meaning the timer starts when the last member of the tribe logs off. \r\n\r\nDefault Auto Decay has been set to 7 days! You can check your decay timer while looking at your structure/s with this chat command- /decaytime\r\n\r\nFeatures- \r\nMap Sync Decay Timers- You will only have to travel to 1 map you have structures or dinos on 1 time to associate your tribe with the auto decay timers then after that they will update across all maps as you join a server and leave.\r\nIgnored Structures- Oil Pump\r\nInstant Decay- Campfire\r\nPrevent Offline Breeding\r\n Vip roles provide longer decay times."
 					},
 					{
 						"title": "ItemsPlus",
-						"text": "This plugin governs our global weight reduction which is 90%.\r\n\r\nIt also takes us off the vanilla item transfer system. When you transfer you dont have to upload items into any inventory you just simply transfer.\r\n\r\nWhen you try to transfer and a message comes up saying \"You cant transfer with the items in your inventory just type /upload then continue your transfer.\r\n\r\nWhen you show up to the server you transferred to all your stuff should download to your inventory. If it does not type /download or travel back to the previous server you transferred from. If none of that works make a ticket in the discord."
+						"text": "This plugin governs our global weight reduction which is 90%.\r\n\r\nIt also takes us off the vanilla item/character transfer system. When you transfer you dont have to upload items into any inventory you just simply transfer. It will also cryo your shoulder pet for you and any inventory inside it.\r\n\r\nWhen you try to transfer and a message comes up saying \"You cant transfer with the items in your inventory just type /upload then continue your transfer.\r\n\r\nWhen you show up to the server you transferred to all your stuff should download to your inventory. If it does not type /download or travel back to the previous server you transferred from. If none of that works make a ticket in the discord."
 					},
 					{
 						"title": "Lethal Quests",
-						"text": "This plugin provides a robust quest system designed by the ArkLegendsPVE team.\r\nTo open the UI press F2 for PC, Console pull up the radial wheel and click the Berry icon.\r\nIncludes-\r\n1 time only quests\r\nDaily Quests\r\nWeekly Quests\r\n\r\nRewards include- Shop points, XP, Items."
+						"text": "This plugin provides a robust quest system designed by the ArkLegendsPVE team.\r\nTo open the UI press F2 for PC, Console pull up the radial wheel and click the Berry icon.\r\nIncludes-\r\n1 time only quests\r\nDaily Quests(Resets every day)\r\nWeekly Quests(Resets every week)\r\n\r\nRewards include- Shop points, XP, resources, weapons, armor, BP's. etc."
 					},
 					{
 						"title": "Lethal Structure Limit",
-						"text": "This plugin governs the structure limit per tribe\r\nTribe Structure limit is 3500. \r\nConnected structure limit is 1250\r\nCommands:\r\nLimits:\"/limits\", //Shows a message with all limit counts\r\nLinked:\"/linked\", //Shows a message with the number of linked structures to a structure you are looking at"
+						"text": "This plugin governs the structure limit per tribe\r\nTribe Structure limit is 6500. \r\nConnected structure limit is 1250\r\nCommands:\r\nLimits:\"/limits\", //Shows a message with all limit counts\r\nLinked:\"/linked\", //Shows a message with the number of linked structures to a structure you are looking at."
 					}
 				]
 			},
@@ -159,7 +159,7 @@
 					},
 					{
 						"title": "AutoBases",
-						"text": "Our AutoBase allows us to bring some PVP to our PVE cluster.\r\n\r\nEach map will notify you when a \"Raid Base\" spawns with the coordinates. Its up to you and or ur tribe to raid that base if you choose. The danger is real and the rewards are worthy. These are unmanned auto generated raid bases, if you get too close they will attack you!!! So bring your best tactics and of course dinos!!!"
+						"text": "Our AutoBase allows us to bring some PVP to our PVE cluster.\r\n\r\nEach map will notify you when a \"Raid Base\" spawns with the coordinates. They are protected by tek shields so they dont attack players passing by. Each raid base has a random \"core structure\" that when destroyed will wipe the whole base whether you have looted it or not. When a base is wiped from destroying a core structure, you will get rewards sent to your inventory.  Its up to you and or ur tribe to raid the bases if you choose. The danger is real and the rewards are worthy. These are unmanned auto generated raid bases. So bring your best tactics and of course dinos!!!"
 					}
 				]
 			}
