@@ -16,7 +16,7 @@
 		},
 		"tabs": [
 			{
-				"layout": 2,
+				"layout": 4,
 				"buttontext": "Welcome",
 				"imageurl": "https://i.imgur.com/GqdOqZr.png",
 				"content": [
@@ -25,8 +25,16 @@
 						"text": "Welcome to AL-PVP. We have a lot of custom functions and features. The info you will see in the rest of this interface will get you familiar with all of it."
 					},
 					{
-						"title": "NPP/ORP",
-						"text": "NEW PLAYER PROTECTION AND ORP\r\n\r\nNew player protection is automatic and lasts for 7 days. If you are the owner of the tribe you can remove the NPP by attacking another player/structure, regular members of a tribe cannot. Every time you get wiped you will get another 7 days of NPP automatically.\r\n\r\nOffline Raid Protection will become active 10 mins after the last player in the tribe logs off."
+						"title": "NEW PLAYER PROTECTION/ORP",
+						"text": "New player protection is automatic and lasts for 7 days. If you are the owner of the tribe you can remove the NPP by attacking another player/structure, regular members of a tribe cannot. Every time you get wiped you will get another 7 days of NPP automatically.\r\n\r\nOffline Raid Protection will become active 10 mins after the last player in the tribe logs off.If you are \"Raid Flagged\" and you log out to activate ORP it will add another 10 mins onto the original 10 min timer."
+					},
+					{
+						"title": "Raid Flagged",
+						"text": "You will be raid flagged for attacking an enemy structure/dino or if any enemy turret attacks you. If you are raid flagged there will be a buff icon with a 10 min cooldown tied to it. While this buff is active you will not be able to run certain commands, pickup or place down certain objects. "
+					},
+					{
+						"title": "Pvp Flagged",
+						"text": "Pvp flag comes from attacking another player and has a 30 second cooldown until its removed. When the cooldown is active you will not be able to place/pickup certain objects."
 					}
 				]
 			},
@@ -41,7 +49,7 @@
 					},
 					{
 						"title": "MODS",
-						"text": "Cybers Structures\r\nDino Depot\r\nLutra's Potions\r\nAwesome Teleporters\r\nAuto Engrams\r\nNanoh's Spyglass\r\nLethals Items+(Plugin companion mod)\r\nLethals Protection(Plugin Companion mod)\r\nASA API Utilities (General plugin companion mod)"
+						"text": "Cybers Structures\r\nDino Depot\r\nLutra's Potions\r\nAwesome Teleporters\r\nAuto Engrams\r\nNanoh's Spyglass\r\nLethals Items+(Plugin companion mod)\r\nLethals Protection(Plugin Companion mod)\r\nASA API Utilities (General plugin companion mod)\r\nLethals Quests/Stat Tracking(Plugin companion mod)\r\nMerc-x ArkShopUI(Plugin companion mod)"
 					}
 				]
 			},
@@ -52,7 +60,7 @@
 				"content": [
 					{
 						"title": "Automation",
-						"text": "Starter Kits are automatic on new character spawn in. More can be attained from the Discord Shop\r\n\r\nOur external webshop and discord shop are 100% automated. No manual deliveries of items, dinos or points purchased in the shops."
+						"text": "Starter Kits are automatic on new character spawn in. More can be attained from the in-game shop. \r\n\r\nOur external webshop. No manual deliveries of items."
 					},
 					{
 						"title": "Points",
@@ -93,46 +101,27 @@
 			},
 			{
 				"layout": 2,
-				"buttontext": "Webshop",
+				"buttontext": "Shop",
 				"imageurl": "https://i.imgur.com/GqdOqZr.png",
 				"content": [
 					{
 						"title": "WEBSHOP",
-						"text": "The external webshop link can be found in Discord via the webshop help channel or by clicking the Webshop button below. A detailed tutorial on how to use the external webshop and Discord shop can be found in the Webshop-help channel.\r\n\r\nTo be able to utilize the Webshop and Discord shop you must connect your ingame character to the discord via the crosschat-link channel in the discord.\r\n"
+						"text": "The external webshop link can be found in Discord via the webshop help channel or by clicking the Webshop button below. A detailed tutorial on how to use the external webshop and Discord shop can be found in the Webshop-help channel.\r\n\r\nTo be able to find the webshop click the button below.\r\n"
 					},
 					{
 						"title": "ArkShop",
-						"text": "Our points/currency system runs off ArkShop. ArkShop also provides our auto delivered starter kits. You can also trade points to other players ingame for buying/selling purposes. Ingame items/dinos can only be purchased using points via the Discord Shop.Here are the ingame commands for ArkShop-\r\n\r\n/points - See your current points balance\r\n/trade <'CharacterName'> <Amount> - Sends Amount Points to the character name specified\r\n\r\nExamples-\r\n\r\n/trade Dova 1000"
+						"text": "Our points/currency system runs off ArkShop. ArkShop also provides our auto delivered starter kits. You can open the shop by pressing F4 on PC or on console by opening the radial menu wheel and finding the \"ArkShopUI\" button."
 					}
 				]
 			},
 			{
-				"layout": 1,
-				"buttontext": "Player List",
-				"imageurl": "https://i.imgur.com/GqdOqZr.png",
-				"content": [
-					{
-						"title": "Current Players Online",
-						"text": "{playerlist}"
-					},
-					{
-						"title": "Tarifas",
-						"text": "Multiplicador de velocidad de domesticación 10 (instantáneo con mod de poción)\r\nMultiplicador de cantidad de cosecha 5\r\nMultiplicador de velocidad 3 para bebés maduros (instantáneo con mod de poción)\r\nIntervalo de abrazo 0.4\r\nMultiplicador de velocidad para la eclosión de huevos 7\r\nMultiplicador de intervalo de apareamiento 0.7 (instantáneo con mod de poción)\r\nMultiplicador de calidad del botín de pesca 3\r\nMultiplicador de calidad del botín de la caja de suministros 3\r\nMultiplicador de XP 3\r\nMultiplicador de resistencia\r\n0,8\r\nPlayer.Starvation Multiplicador 0.8\r\nMultiplicadores de drenaje general 0,8\r\nPeso por punto de estadística +100\r\nFortaleza por punto de estadística +50\r\nOtras estadísticas son 30 por punto.\r\nGotas de botín modificadas"
-					},
-					{
-						"title": "Modificaciones",
-						"text": "Humanos_NPC_ASA\r\nGSA\r\nImpresionanteSpyGlass\r\nAhorrador de ratón\r\nGigantoraptor\r\nPlataformas Oceánicas de Alfa\r\ngrifos\r\nApilamiento TG 1000/90\r\ncalidad de vida+\r\nTeletransportadores impresionantes\r\nCrónicas draconianas\r\nDinos brillantes\r\nLas locas pociones ascendidas de Crazy\r\nEstructuras Arkitect remasterizadas\r\nRecolectores de recursos\r\nConstructores enanos\r\nHiper extras\r\nDisfraces Míticos\r\nAdiciones ascendidas: todos los dinosaurios\r\nDraconis Glauco\r\nPeinados MarniiMods\r\nDúo Indomable de Moros\r\ndetener el robo\r\nArmario Cliffans"
-					}
-				]
-			},
-			{
-				"layout": 4,
+				"layout": 2,
 				"buttontext": "Plugins",
 				"imageurl": "https://i.imgur.com/GqdOqZr.png",
 				"content": [
 					{
 						"title": "Lethal Decay",
-						"text": "The Auto Decay timer/s DO NOT run off the type of material used but off of the tribes activity as a whole meaning the timer starts when the last member of the tribe logs off. \r\n\r\nDefault Auto Decay has been set to 14 days! You can check your decay timer while looking at your structure/s with this chat command- /decaytime\r\n\r\nFeatures- \r\nCross-map- You will only have to travel to each map you have structures or dinos on 1 time to associate your tribe with the auto decay timers then after that they will update across all maps as you join a server and leave.\r\nIgnored Structures- Oil Pump\r\nInstant Decay- Campfire\r\nPrevent Offline Breeding\r\n\r\nYou can increase the decay time via the webshop."
+						"text": "The Auto Decay timer/s DO NOT run off the type of material used but off of the tribes activity as a whole meaning the timer starts when the last member of the tribe logs off. \r\n\r\nDefault Auto Decay has been set to 14 days! You can check your decay timer while looking at your structure/s with this chat command- /decaytime\r\n\r\nFeatures- \r\nCross-map- You will only have to travel to each map you have structures or dinos on 1 time to associate your tribe with the auto decay timers then after that they will update across all maps as you join a server and leave.\r\n\r\nPVP-After 7 days of inactivity ORP will be removed from your tribe.\r\n\r\nYou can increase the decay time via the webshop."
 					},
 					{
 						"title": "ItemsPlus",
