@@ -37,7 +37,7 @@
 				"content": [
 					{
 						"title": "Rates",
-						"text": "Taming Speed Multiplier 10 (Instant with potion mod)\r\nHarvest Amount Multiplier 5\r\nBaby Mature Speed Multiplier 3 (Instant with Potion mod)\r\nCuddle Interval 0.4\r\nSpeed multiplier for the hatching of eggs 7\r\nMating Interval Multiplier 0.7 (Instant with Potion mod)\r\nFishing Loot Quality Multiplier 3\r\nSupply Crate Loot Quality Multiplier 3\r\nXP Multiplier 3\r\nStamina Multiplier\r\n0.8\r\nPlayer.Starvation Multiplier 0.8\r\nGeneral Draining Multipliers 0.8\r\nWeight per stat point +100\r\nFortitude per stat point +50\r\nOther stats are 15 per point.\r\nModded Loot Drops"
+						"text": "Taming Speed Multiplier 10 (Instant with potion mod)\r\nHarvest Amount Multiplier 4\r\nBaby Mature Speed Multiplier 3 (Instant with Potion mod)\r\nCuddle Interval 0.4\r\nSpeed multiplier for the hatching of eggs 7\r\nMating Interval Multiplier 0.7 (Instant with Potion mod)\r\nFishing Loot Quality Multiplier 3\r\nSupply Crate Loot Quality Multiplier 3\r\nXP Multiplier 3\r\nStamina Multiplier\r\n0.8\r\nPlayer.Starvation Multiplier 0.8\r\nGeneral Draining Multipliers 0.8\r\nWeight per stat point +100\r\nFortitude per stat point +50\r\nOther stats are 15 per point.\r\nModded Loot Drops"
 					},
 					{
 						"title": "MODS",
@@ -185,3 +185,4 @@
 		"version": 2
 	}
 }
+
