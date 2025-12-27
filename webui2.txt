@@ -22,7 +22,7 @@
 				"content": [
 					{
 						"title": "Welcome",
-						"text": "Here at the ArkLegends community we strive to provide everyone who joins with the type of Ark experience they desire and expect. \r\n\r\nEveryone here is helpful and respectful and we intend to keep it that way. \r\n\r\nThe admin team here has been playing Ark since 2015 and has years of server hosting experience. \r\n\r\nWe host our servers on our own dedicated server box (not server rental sites). \r\n\r\nThis allows us to provide the smoothest experience possible with amazing customization and features. \r\n\r\nWe have settings that are slightly boosted and mods that can be utilized to provide a faster experience thus bringing a \"balance\" of multiple play style options to the community."
+						"text": "Here at the ArkLegends community we strive to provide everyone who joins with the type of Ark experience they desire and expect. \r\n\r\nEveryone here is helpful and respectful and we intend to keep it that way. \r\n\r\nThe admin team here has been playing Ark since 2015 and has years of server hosting experience. \r\n\r\nWe host our servers on our own dedicated server box (not server rental sites). \r\n\r\nThis allows us to provide the smoothest experience possible with amazing customization and features. \r\n\r\nWe have settings that are slightly boosted and mods that can be utilized to provide a faster experience thus bringing a \"balance\" of multiple play style options to the community.\r\n\r\nPLEASE READ!!!\r\nTribes are auto created for you on ALL maps, just change the name as needed. You cannot make different tribes on different maps. You cannot have multiple characters,"
 					},
 					{
 						"title": "Rules",
@@ -185,4 +185,3 @@
 		"version": 2
 	}
 }
-
