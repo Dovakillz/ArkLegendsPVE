@@ -125,7 +125,7 @@
 					},
 					{
 						"title": "ItemsPlus",
-						"text": "This plugin governs our global weight reduction which is 75%.\r\n\r\nIt also takes us off the vanilla item/character transfer system. When you transfer you dont have to upload items into any inventory you just simply transfer.\r\n\r\nWhen you try to transfer and a message comes up saying \"You cant transfer with the items in your inventory just type /upload then continue your transfer.\r\n\r\nWhen you show up to the server you transferred to all your stuff should download to your inventory. If it does not type /download or travel back to the previous server you transferred from. If none of that works make a ticket in the discord."
+						"text": "This plugin governs our global weight reduction which is 75%.\r\n\r\nIt also takes us off the vanilla item/character transfer system. When you transfer you dont have to upload items into any inventory you just simply transfer.\r\n\r\nWhen you try to transfer and a message comes up saying \"You cant transfer with the items in your inventory just type /upload then continue your transfer.\r\n\r\nWhen you show up to the server you transferred to all your stuff should download to your inventory. If it does not type /download or travel back to the previous server you transferred from. If none of that works make a ticket in the discord.\r\n\r\nTribe Enforcer-\r\nWhen you join our servers a tribe will be auto created for you. This tribe data is persistent across all maps. You CANNOT make a new tribe on a different map or join another tribe on a different map."
 					},
 					{
 						"title": "",
