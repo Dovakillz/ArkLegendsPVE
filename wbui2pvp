@@ -16,25 +16,25 @@
 		},
 		"tabs": [
 			{
-				"layout": 4,
+				"layout": 2,
 				"buttontext": "Welcome",
-				"imageurl": "https://i.imgur.com/GqdOqZr.png",
+				"imageurl": "https://i.imgur.com/SFbPqmT.png",
 				"content": [
 					{
 						"title": "Intro",
-						"text": "Welcome to AL-PVP. We have a lot of custom functions and features. The info you will see in the rest of this interface will get you familiar with all of it."
+						"text": "Welcome to AL-PVP. We have a lot of custom functions and features. The info you will see in the rest of this interface will get you familiar with all of it.\r\n\r\nRaid Flag\r\nYou will be raid flagged for attacking an enemy structure/dino or if any enemy turret attacks you. If you are raid flagged there will be a buff icon with a 10 min cooldown tied to it. While this buff is active you will not be able to run certain commands, pickup or place down certain objects. \r\n\r\nPvp Flagged-\r\nPvp flag comes from attacking another player and has a 30 second cooldown until its removed. When the cooldown is active you will not be able to place/pickup certain objects."
 					},
 					{
 						"title": "NEW PLAYER PROTECTION/ORP",
-						"text": "New player protection is automatic and lasts for 7 days. If you are the owner of the tribe you can remove the NPP by attacking another player/structure, regular members of a tribe cannot. Every time you get wiped you will get another 7 days of NPP automatically.\r\n\r\nOffline Raid Protection will become active 10 mins after the last player in the tribe logs off.If you are \"Raid Flagged\" and you log out to activate ORP it will add another 10 mins onto the original 10 min timer."
+						"text": "New player protection is automatic and lasts for 5 days for new players and 2 days if you have been wiped. If you are the owner of the tribe you can remove the NPP by attacking another player/structure, regular members of a tribe cannot. Every time you get wiped you will get another 2 days of NPP automatically.\r\n\r\nOffline Raid Protection will become active 10 mins after the last player in the tribe logs off.If you are \"Raid Flagged\" and you log out to activate ORP it will add another 10 mins onto the original 10 min timer.ORP turns off every Friday at 8pm US EST and turns back on every Sunday at 9pm US EST."
 					},
 					{
-						"title": "Raid Flagged",
-						"text": "You will be raid flagged for attacking an enemy structure/dino or if any enemy turret attacks you. If you are raid flagged there will be a buff icon with a 10 min cooldown tied to it. While this buff is active you will not be able to run certain commands, pickup or place down certain objects. "
+						"title": "Raid/PvP Flag",
+						"text": "You will be raid flagged for attacking an enemy structure/dino or if any enemy turret attacks you. If you are raid flagged there will be a buff icon with a 10 min cooldown tied to it. While this buff is active you will not be able to run certain commands, pickup or place down certain objects. \r\n\r\nPvp Flagged-\r\nPvp flag comes from attacking another player and has a 30 second cooldown until its removed. When the cooldown is active you will not be able to place/pickup certain objects."
 					},
 					{
-						"title": "Pvp Flagged",
-						"text": "Pvp flag comes from attacking another player and has a 30 second cooldown until its removed. When the cooldown is active you will not be able to place/pickup certain objects."
+						"title": "Raid/PvP Flag",
+						"text": "You will be raid flagged for attacking an enemy structure/dino or if any enemy turret attacks you. If you are raid flagged there will be a buff icon with a 10 min cooldown tied to it. While this buff is active you will not be able to run certain commands, pickup or place down certain objects. \r\n\r\nPvp Flagged-\r\nPvp flag comes from attacking another player and has a 30 second cooldown until its removed. When the cooldown is active you will not be able to place/pickup certain objects."
 					}
 				]
 			},
@@ -45,11 +45,11 @@
 				"content": [
 					{
 						"title": "Rates",
-						"text": "Taming Speed Multiplier 10 (Instant with potion mod)\r\nHarvest Amount Multiplier 5\r\nBaby Mature Speed Multiplier 3 (Instant with Potion mod)\r\nCuddle Interval 0.4\r\nSpeed multiplier for the hatching of eggs 7\r\nMating Interval Multiplier 0.7 (Instant with Potion mod)\r\nFishing Loot Quality Multiplier 3\r\nSupply Crate Loot Quality Multiplier 3\r\nXP Multiplier 3\r\nStamina Multiplier 0.8\r\nPlayer Starvation Multiplier 0.8\r\nGeneral Draining Multipliers 0.8\r\nWeight per stat point +1000\r\nFortitude per stat point +20\r\nOther stats are 10 per point.\r\nGlobal weight reduction is 90%"
+						"text": "Taming Speed Multiplier 10 \r\nHarvest Amount Multiplier 15\r\n100% Imprint\r\nSpeed multiplier for the hatching of eggs 7\r\nMating/Breeding timers are based off of the Giga's-\r\nIncubation=30 mins\r\nMature=2hrs\r\nMating Interval=1-3mins\r\nFishing Loot Quality Multiplier 3\r\nSupply Crate Loot Quality Multiplier 3\r\nXP Multiplier 3\r\nStamina Multiplier 0.8\r\nPlayer Starvation Multiplier 0.8\r\nGeneral Draining Multipliers 0.8\r\nWeight per stat point=400\r\nFortitude per stat point +20\r\nOther stats are 10 per point.\r\nGlobal weight reduction is 75%"
 					},
 					{
 						"title": "MODS",
-						"text": "Cybers Structures\r\nDino Depot\r\nLutra's Potions\r\nAwesome Teleporters\r\nAuto Engrams\r\nNanoh's Spyglass\r\nLethals Items+(Plugin companion mod)\r\nLethals Protection(Plugin Companion mod)\r\nASA API Utilities (General plugin companion mod)\r\nLethals Quests/Stat Tracking(Plugin companion mod)\r\nMerc-x ArkShopUI(Plugin companion mod)"
+						"text": "Cybers Structures\r\nDino Depot\r\nAwesome Teleporters\r\nAwesome Spyglass\r\nLethals Items+(Plugin companion mod)\r\nLethals Protection(Plugin Companion mod)\r\nASA API Utilities (General plugin companion mod)\r\nLethals Quests/Stat Tracking(Plugin companion mod)\r\nMerc-x ArkShopUI(Plugin companion mod)"
 					}
 				]
 			},
@@ -87,7 +87,7 @@
 					},
 					{
 						"title": "Cyber's Structure's",
-						"text": "Similar to the S+ mod from ASE. Passive production options from Vivariums, Aggregator, Gacha Gavager\\r\\nPassive breeding/mutating via the Propagator and general QoL stuff."
+						"text": "Similar to the S+ mod from ASE. Passive production options from Vivariums, Aggregator, Gacha Gavager\r\nPassive breeding/mutating via the Propagator and general QoL stuff."
 					},
 					{
 						"title": "",
@@ -125,7 +125,7 @@
 					},
 					{
 						"title": "ItemsPlus",
-						"text": "This plugin governs our global weight reduction which is 90%.\r\n\r\nIt also takes us off the vanilla item/character transfer system. When you transfer you dont have to upload items into any inventory you just simply transfer.\r\n\r\nWhen you try to transfer and a message comes up saying \"You cant transfer with the items in your inventory just type /upload then continue your transfer.\r\n\r\nWhen you show up to the server you transferred to all your stuff should download to your inventory. If it does not type /download or travel back to the previous server you transferred from. If none of that works make a ticket in the discord."
+						"text": "This plugin governs our global weight reduction which is 75%.\r\n\r\nIt also takes us off the vanilla item/character transfer system. When you transfer you dont have to upload items into any inventory you just simply transfer.\r\n\r\nWhen you try to transfer and a message comes up saying \"You cant transfer with the items in your inventory just type /upload then continue your transfer.\r\n\r\nWhen you show up to the server you transferred to all your stuff should download to your inventory. If it does not type /download or travel back to the previous server you transferred from. If none of that works make a ticket in the discord."
 					},
 					{
 						"title": "",
